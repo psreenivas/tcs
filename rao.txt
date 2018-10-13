@@ -25,8 +25,21 @@ ewjfgjsf
 fsabshfd
 
 >>>>>>> c3657b7278b494f2dc838a1450d72244edb5279f
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+fgfgf
+hgfhgfh
+abc
+def'
+=======
+>>>>>>> master
 =======
 
 >>>>>>> parent of c948828... file edited
 are u thirsty
 then eat something
+<<<<<<< HEAD
+=======
+>>>>>>> thirsty
+>>>>>>> master
